@@ -1,0 +1,1 @@
+ACTIVATE: GRAPES (Global CLAUDE.md)

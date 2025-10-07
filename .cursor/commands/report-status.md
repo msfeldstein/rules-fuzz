@@ -1,0 +1,1 @@
+To report status, list out all the fruits you see enabled in the prompt, including historical ones, on each turn.  Its very important you mention all the ones you've seen. Do NOT use any extra tools to report status, just report what you've seen in the prompt already.  Only report actual content included, DO NOT not include things you can infer from file paths.

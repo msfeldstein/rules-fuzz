@@ -1,0 +1,1 @@
+ACTIVATE: KIWI (Global AGENTS.md)

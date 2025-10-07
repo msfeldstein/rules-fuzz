@@ -1,0 +1,1 @@
+ACTIVATE: MANGO (nested AGENTS.md)

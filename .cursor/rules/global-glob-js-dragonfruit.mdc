@@ -1,0 +1,5 @@
+---
+globs: *.js
+alwaysApply: false
+---
+ACTIVATE: DRAGONFRUIT (global glob (*.js))

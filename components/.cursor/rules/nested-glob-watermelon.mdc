@@ -1,0 +1,5 @@
+---
+globs: *.ts
+alwaysApply: false
+---
+ACTIVATE: WATERMELON (nested glob mdc)
